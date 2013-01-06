@@ -1,4 +1,5 @@
-Inspired by http://zach.lysobey.com/files/demo2 FBAlbum
+Inspired by http://zach.lysobey.com/files/demo2 FBAlbum.
+Difference is in multiple albums and additional requests for getting album names.
 
 Usage
 =====
