@@ -2,6 +2,8 @@ Inspired by http://zach.lysobey.com/files/demo2 FBAlbum
 
 Usage
 =====
+    To embed XXX and YYY facebook photo albums on your page (with fancybox) use the following.
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="fbalbums.js"></script>
     <script src="http://zach.lysobey.com/files/demo2/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
